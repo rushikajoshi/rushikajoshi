@@ -2,17 +2,16 @@
 
 I am a robotics & space enthusiast and I enjoy working on developing fully autonomous aerial vehicles and planetary robots for its use in field robotics and for space exploration!
 <br/>
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/BWdgfiUZ0f6isJnABJ/200.webp?cid=ecf05e47tdxym87sl3jg9vkn1ujd8j3jhxheqr4pmtbqh12c&rid=200.webp&ct=g" width="360px"/>
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/BWdgfiUZ0f6isJnABJ/giphy.gif" width="360px"/>
   
 ### More About Me:
 
 - 🎓 &nbsp; I'm a junior year undergraduate student at Visvesvaraya National Institute of Technology, Nagpur.
 - 🌱 &nbsp; I am keen on exploring controls and motion planning of aerial systems with an emphasis on robustness and interactivity in uncertain environments.
 - 🛸 &nbsp; I’m currently working on **Last mile delivery drones**.
-- 📫 &nbsp; I like to connect and network with people. Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rushikajoshi/).
-- 📝 &nbsp; Know more about my experiences [here](https://drive.google.com/file/d/1dDYmZ3G7GlPtMCCZsnKXX_SRDHFQX-TP/view?usp=sharing).
-- 🥀 &nbsp; In my free time, I love to dance and sing, and have completed Praveshika Pratham in Indian Classical Music.
-
+- 📫 &nbsp; I like to connect and network with people.
+- 📝 &nbsp; View my resume [here](https://drive.google.com/file/d/1dDYmZ3G7GlPtMCCZsnKXX_SRDHFQX-TP/view?usp=sharing).
+- 🥀 &nbsp; In my free time, I love to dance and sing.
 <br>
 
 ### 🔨 Languages and Tools:
