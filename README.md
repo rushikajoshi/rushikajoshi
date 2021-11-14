@@ -6,11 +6,11 @@ I am a robotics & space enthusiast and I enjoy working on developing fully auton
   
 ### More About Me:
 
-- 🎓 &nbsp; I'm a junior year undergraduate student at Visvesvaraya National Institute of Technology, Nagpur.\
-- 🌱 &nbsp; I am keen on exploring controls and motion planning of aerial systems with an emphasis on robustness and interactivity in uncertain environments.\
-- 🛸 &nbsp; I’m currently working on **Last mile delivery drones**.\
-- 📫 &nbsp; I like to connect and network with people. Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rushikajoshi/).\
-- 📝 &nbsp; Know more about my experiences [here](https://drive.google.com/file/d/1dDYmZ3G7GlPtMCCZsnKXX_SRDHFQX-TP/view?usp=sharing).\
+- 🎓 &nbsp; I'm a junior year undergraduate student at Visvesvaraya National Institute of Technology, Nagpur.
+- 🌱 &nbsp; I am keen on exploring controls and motion planning of aerial systems with an emphasis on robustness and interactivity in uncertain environments.
+- 🛸 &nbsp; I’m currently working on **Last mile delivery drones**.
+- 📫 &nbsp; I like to connect and network with people. Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rushikajoshi/).
+- 📝 &nbsp; Know more about my experiences [here](https://drive.google.com/file/d/1dDYmZ3G7GlPtMCCZsnKXX_SRDHFQX-TP/view?usp=sharing).
 - 🥀 &nbsp; In my free time, I love to dance and sing, and have completed Praveshika Pratham in Indian Classical Music.
 
 <br>
