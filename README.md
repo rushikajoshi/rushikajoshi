@@ -1,4 +1,4 @@
-# <br> Hi there, I'm Rushika! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+# Hi there, I'm Rushika! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 
 I am a robotics & space enthusiast and I enjoy working on developing fully autonomous aerial vehicles and planetary robots for its use in field robotics and for space exploration!
 <br/>
